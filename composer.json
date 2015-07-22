@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Verzola\\": "src/Verzola"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    }
+}
