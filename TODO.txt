@@ -1,0 +1,9 @@
+- Ver lista de contatos
+- Buscar contatos
+- Adicionar contato
+- Editar contato
+- Detalhe de um contato
+- Criar exceptions
+- Validação
+- Parser
+- SQLite
